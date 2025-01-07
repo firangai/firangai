@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="frontend/public/conjure_logo.png" alt="ConjureAI Logo" width="200"/>
+  <img src="frontend/public/firangai_logo.png" alt="ConjureAI Logo" width="200"/>
 
-  # ConjureAI - AI Developer Agent Platform
+  # FirangAI - AI Developer Agent Platform
 
   [![Next.js](https://img.shields.io/badge/Next.js-14.0-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
