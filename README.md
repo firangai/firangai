@@ -31,9 +31,6 @@
   </h3>
 </div>
 
-## CA
-- $CNJR: H1gbUutzF1gHqbV91MPxk6YkGEDdiFm44iiUWdwMpump
-
 ## Features
 
 - 🤖 Advanced AI Agents specialized in web and game development
