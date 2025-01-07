@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="frontend/public/firangai_logo.png" alt="ConjureAI Logo" width="200"/>
+  <img src="frontend/public/firangai.png" alt="FirangAI Logo" width="200"/>
 
   # FirangAI - AI Developer Agent Platform
 
